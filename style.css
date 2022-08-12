@@ -1,0 +1,138 @@
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    margin: 0px auto;
+    justify-content: center;
+    text-align: center;
+    width: 80vh;
+
+}
+
+.container1{
+
+    margin-top: 100px;
+    height: 45vh;
+    background-color: rgb(240, 203, 208);
+}
+
+.top-container{
+    display: flex; 
+
+
+}
+
+.bottom-container{
+
+    margin-top: 100px;
+    padding-bottom: 10px;
+    height: 45vh;
+
+}
+
+.input-container{
+    display: flex;
+}
+
+.barcode-container{
+    display: flex;
+}
+
+.icon-container{
+    display: flex; 
+}
+
+#polygon1{
+
+    height: 140px;
+    width: 162.5px;
+    padding-top: 31px ;
+    padding-bottom: 10px;
+    margin-left: -43px;
+}
+
+#company-name{
+
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 13px;
+    width: 500vh;
+
+}
+
+.contact-container{
+
+    width: 450px;
+    padding-top: 31px ;
+    margin-right: 20px;
+    display: grid;
+    color: rgb(243, 79, 79);
+}
+
+.website-container{
+    margin-top: 35px;
+    padding-top: 5px;
+    height: 27px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(238, 14, 14);
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-top: 10px;
+}
+
+#cash-deposit-card{
+
+    font-size: 20px;
+    width: 200px;
+}
+
+.icon-container{
+  
+    margin-top: 60px;
+    margin-bottom: -47px;
+    margin-left: 80px;
+}
+
+#icon{
+
+    height: 10px;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+
+b{
+    color: black;
+}
+
+.number{
+
+font-size: 20px;
+padding-top: 40px;
+
+}
+
+.input-container{
+    border: 2px solid red;
+}
+
+#polygon2{
+
+    height: 45px;
+    width: 45px;
+}
+
+.input-container{
+    border: 2px solid red;
+    background-color: rgb(55, 136, 190);
+    margin-left: 20px;
+    background-color: linear-gradient(110deg, white 50%, rgb(55, 136, 190) 50%);
+}
